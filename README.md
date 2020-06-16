@@ -2,7 +2,7 @@
 
 Curso oferecido pela [Alura Cursos Onlne](https://www.alura.com.br/), com o apoio da comunidade [DataHackers](https://datahackers.com.br/) e da empresa [Movile](https://www.movile.com.br/), no período de pandemia devido à COVID-19, com o objetivo de ensinar os conceitos básicos por trás da Ciência de Dados.
 
-Conteúdo estudado das aulas:
+Conteúdo estudado nas aulas:
 
 1. **Dia 1 - Dados do MovieLens e Enem:** Análise exploratório dos dados que temos. Por onde investigar? A base para qualquer trabalho científico.
 2. **Dia 2 - Visualização de dados:** Não basta montar gráficos: ele precisa contar uma história honesta, transparente.
